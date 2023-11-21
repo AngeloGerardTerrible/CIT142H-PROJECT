@@ -44,3 +44,13 @@
     margin-top: 12%;
     margin-left: 24%;
   }
+
+.box4{
+    background: brown;
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 10px;
+    float: left;
+  }
